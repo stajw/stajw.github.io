@@ -3,7 +3,7 @@ layout: post
 title:  "첫번째 게시물 테스트!"
 date:   2019-07-09 17:01:01
 author: Jinwoo Ahn
-categories: OperatingSystem
+categories: Basic
 ---
 
 테스트게시물

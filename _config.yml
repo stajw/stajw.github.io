@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Jinwoo's Blog
+title: 진우의 컴퓨터 블로그!
 subtitle: "Korea Univ. Computer Science"
 email: stajw@naver.com
 name: Jinwoo Ahn

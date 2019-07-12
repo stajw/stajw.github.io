@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 진우의 컴퓨터 블로그!
+title: Jinwoo's Blog
 subtitle: "Korea Univ. Computer Science"
 email: stajw@naver.com
 name: Jinwoo Ahn
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: " " # the subpath of your site, e.g. /blog/
 url: "http://stajw.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/new.jpg"
 logo: "/assets/logo.png"
 
 remote_theme : bencentra/centrarium

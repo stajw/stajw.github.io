@@ -1,11 +1,22 @@
 ---
 layout: post
-title:  "첫번째 게시물 테스트!"
+title:  "Markdown 문법 공부"
 date:   2019-07-12 17:23:13
 author: Jinwoo Ahn
 categories: Basic
 ---
-##글머리 달기  
-##줄바꿈  
+## 글머리 달기  
+#의 개수가 많아질수록 크기가 작아진다!
+## 줄바꿈  
 라인 끝에 스페이스를 2번  
-눌러주어야 한다
+눌러주어야 한다!  
+## 인용  
+> hello  
+>> the more, the deeper!  
+## 링크  
+[구글](https://google.com)  
+아니면 직접 주소를 입력해도 된다.
+<https://google.com>  
+## 이미지 삽입
+![](/assets/logo.jpg){: .align-center}  
+align-center를 통해 가운데 정렬

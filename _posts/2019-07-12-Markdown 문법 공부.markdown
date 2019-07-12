@@ -19,10 +19,5 @@ categories: Basic
 아니면 직접 주소를 입력해도 된다.
 <https://google.com>  
 ## 이미지 삽입
-![](./assets/logo.jpg){: .align-center}  
+![pencil](/img/pencil.png){: .align-center}  
 align-center를 통해 가운데 정렬
-## 표 만들기
-| 항목 | 가격 | 개수 |
-|:---:|:----:|:----|
-| 라면 | 800원 | 10개 |
-| 과자 | 900원 | 20개 |

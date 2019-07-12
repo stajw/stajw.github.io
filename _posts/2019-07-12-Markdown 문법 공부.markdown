@@ -19,5 +19,5 @@ categories: Basic
 아니면 직접 주소를 입력해도 된다.
 <https://google.com>  
 ## 이미지 삽입
-![pencil](/img/pencil.png){: .align-center}  
+![pencil](./img/pencil.png){: .align-center}  
 align-center를 통해 가운데 정렬
